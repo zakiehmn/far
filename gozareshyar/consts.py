@@ -1,0 +1,4 @@
+
+class Environmnets:
+  PRODUCTION = 'PRODUCTION'
+  DEVELOPMENT = 'DEVELOPMENT'
